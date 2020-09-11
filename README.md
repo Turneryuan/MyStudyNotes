@@ -8,4 +8,4 @@
       this version of the Java Runtime only recognizes class file versions up to 52.0
   
   这是因为我在安装jdk之前在官网上安装了java，导致了JRE与JDK版本不统一
-  总结一下知识点：JDK工具包包含JRE，官网提供的JAVA安装包就是JRE，如果在其他电脑上需要运行JAVA程序不需要安装JDK，只需要安装JAVA(JRE)即可运行
+  总结一下知识点：JDK工具包安装时提供内置的JRE，官网提供的JAVA安装包就是JRE，如果在其他电脑上需要运行JAVA程序不需要安装JDK，只需要安装JAVA(JRE)即可运行
