@@ -1,6 +1,6 @@
 # MyStudyNotes//我的程序员之路
 
-  今天在写第一个hello world程序时遇到一个错误：
+    今天在写第一个JAVA程序"HelloWorld"时遇到一个错误：
 
       Error: A JNI error has occurred, please check your installation and try again
       Exception in thread "main" java.lang.UnsupportedClassVersionError: HelloWorld has been compiled by a more recent version of the Java Runtime (class file version 58.0), this       version of the Java Runtime only recognizes class file versions up to 52.0
